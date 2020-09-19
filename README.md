@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Sally. I’m a computer science student at the University of Waterloo. I'm driven by passion, curiosity, and lots of milk tea! In my spare time, I enjoy reading and experimenting with design. I'm currently trying to figure out virtual learning and looking for new opportunities. Feel free to check out some of my projects :)
 
 <!--
 **sy-zhou/sy-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
